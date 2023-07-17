@@ -11,3 +11,6 @@ The websockets are used to enable real-time communication between the frontend a
 
 ![image](https://github.com/Atharvamhatre149/Sweep-chat-app/assets/89691657/833fd269-7d94-431e-bb18-bcf5822affde)
 
+
+![Screenshot (18)](https://github.com/Atharvamhatre149/Sweep-chat-app/assets/89691657/251aab73-6a84-4a84-85f4-f6f9ffd360cf)
+
