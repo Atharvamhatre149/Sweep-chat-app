@@ -8,3 +8,6 @@ The backend of the chat website will be built using Express and Node.js.
 routes are set up for handling chat messages and user authentication.
 One of the key features of a chat website is the ability to send and receive messages in real-time.
 The websockets are used to enable real-time communication between the frontend and backend of the website and between the different users.
+
+![image](https://github.com/Atharvamhatre149/Sweep-chat-app/assets/89691657/833fd269-7d94-431e-bb18-bcf5822affde)
+
